@@ -1,0 +1,15 @@
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\bin\Debug\Review Winform.exe.config
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\bin\Debug\Review Winform.exe
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\bin\Debug\Review Winform.pdb
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\bin\Debug\Guna.UI2.dll
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review Winform.csproj.AssemblyReference.cache
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review_Winform.Properties.Resources.resources
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review Winform.csproj.GenerateResource.cache
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review Winform.csproj.CoreCompileInputs.cache
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review W.3D048367.Up2Date
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review Winform.exe
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review Winform.pdb
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review_Winform.FormGender.resources
+C:\Users\fauzu\source\repos\Review Winform\Review Winform\obj\Debug\Review_Winform.FormIdentitas.resources
